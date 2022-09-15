@@ -1,5 +1,5 @@
 # 8650DataStructuresHWs
-This is a repository for holding my 8650 Graduate Data Structures Homeworks. The class was generally about data structures and in particular about data structures in Python. The version of Python used in the class was a version of Python 2.
+This is a repository for holding my Math 8650 Graduate Data Structures Homeworks. The class was generally about data structures and in particular about data structures in Python. The version of Python used in the class was a version of Python 2.
 
 There are a couple of things to note about the contents of this repository: 
 
