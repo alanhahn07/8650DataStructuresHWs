@@ -7,4 +7,4 @@ There are a couple of things to note about the contents of this repository:
 
 2. These are my homeworks essentially as-is. There might be some extra packages you need on your machine in order to e.g. see certain graphs. For example, one of the homeworks uses NetworkX. Another point to go along with this is that there may be typos, functions that could be better written, etc. throughout the hws. 
 
-I suggest using this repository to get an idea of what the class was about, and get an idea of my programming level. If you see any egregious errors that you think I should know about, you are welcome to comment. 
+I suggest using this repository to get an idea of what the class was about, and get an idea of my programming level. If you see any egregious errors that you think I should know about, you are welcome to let me know. 
